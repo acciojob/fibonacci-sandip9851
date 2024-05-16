@@ -6,7 +6,7 @@ function fibonacci(num) {
 
 
 
-for(let i = 1; i<num; i++){
+for(let i = 2; i<num; i++){
    temp = a+b;
  
   a = b;
@@ -14,7 +14,7 @@ for(let i = 1; i<num; i++){
 	
 }
 
-return b;
+return a;
 }
 
 module.exports = fibonacci;

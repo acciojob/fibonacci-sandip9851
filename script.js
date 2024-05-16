@@ -6,7 +6,7 @@ function fibonacci(num) {
 
 
 
-for(let i = 2; i<num; i++){
+for(let i = 2; i<=num; i++){
    temp = a+b;
  
   a = b;

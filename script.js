@@ -14,7 +14,7 @@ for(let i = 2; i<num; i++){
 	
 }
 
-return a;
+return b;
 }
 
 module.exports = fibonacci;

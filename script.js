@@ -12,7 +12,7 @@ for(let i = 0; i<=num; i++){
   b = temp
 }
 
-return arr;
+return temp;
 }
 
 module.exports = fibonacci;

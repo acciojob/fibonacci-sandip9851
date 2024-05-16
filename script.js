@@ -2,12 +2,12 @@ function fibonacci(num) {
 // your code here
 	let a = 0;
 	let b = 1;
-	let 
+	let temp;
 
 
 
 for(let i = 0; i<=num; i++){
-   let temp = a+b;
+   temp = a+b;
  
   a = b;
   b = temp
